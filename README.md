@@ -72,6 +72,8 @@ It crawls trusted allergy webpages and linked PDFs, creates embeddings,
 
 stores them in Pinecone, and answers with citations using OpenAI.
 
+Sources: AAAAI, ACAAI, MedlinePlus, NIAID, CDC, FDA, AAFA, FARE, Mayo Clinic, and Cleveland Clinic.
+
 
 ## Technologies
 
