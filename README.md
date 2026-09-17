@@ -10,11 +10,19 @@ The projects use machine learning (ML), large language models (LLMs), and Retrie
 
 ## Total Four Projects:
 
-### 1. CMS Fraud Information Extraction
+### 1. Allergy AI Assistant (Chatbot)
 
-See Folder: Extraction of CMS Fraud Information
+See Folder: Allergy_AI_Assistant_Final
 
-This project explores CMS healthcare fraud types and common fraud detection methods.
+A healthcare RAG chatbot for allergy education or common sense.
+
+It crawls trusted allergy webpages and linked PDFs, creates embeddings, 
+
+stores them in Pinecone, and answers with citations using OpenAI.
+
+Sources: AAAAI, ACAAI, MedlinePlus, NIAID, CDC, FDA, AAFA, FARE, Mayo Clinic, and Cleveland Clinic.
+
+<br>
 
 ### 2. Healthcare Fraud Detection App
 
@@ -62,18 +70,14 @@ Example questions:
 - How do I report Medicare fraud?
 - What are common fraud warning signs?
 
-### 4. Allergy AI Assistant (Chatbot)
+### 4. CMS Fraud Information Extraction
 
-See Folder: Allergy_AI_Assistant_Final
+See Folder: Extraction of CMS Fraud Information
 
-A healthcare RAG chatbot for allergy education or common sense.
+This project explores CMS healthcare fraud types and common fraud detection methods.
 
-It crawls trusted allergy webpages and linked PDFs, creates embeddings, 
-
-stores them in Pinecone, and answers with citations using OpenAI.
-
-Sources: AAAAI, ACAAI, MedlinePlus, NIAID, CDC, FDA, AAFA, FARE, Mayo Clinic, and Cleveland Clinic.
-
+<br>
+<br>
 
 ## Technologies
 
