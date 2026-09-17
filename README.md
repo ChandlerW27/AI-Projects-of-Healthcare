@@ -68,7 +68,9 @@ See Folder: Allergy_AI_Assistant_Final
 
 A healthcare RAG chatbot for allergy education or common sense.
 
-It retrieves information from trusted healthcare sources and provides answers with citations.
+It crawls trusted allergy webpages and linked PDFs, creates embeddings, 
+
+stores them in Pinecone, and answers with citations using OpenAI.
 
 
 ## Technologies
