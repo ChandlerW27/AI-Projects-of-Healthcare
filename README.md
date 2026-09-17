@@ -24,28 +24,8 @@ Sources: AAAAI, ACAAI, MedlinePlus, NIAID, CDC, FDA, AAFA, FARE, Mayo Clinic, an
 
 <br>
 
-### 2. Healthcare Fraud Detection App
 
-See Folder: Deployment_of_Healthcare_Fraud_Detection
-
-A Streamlit application that predicts provider fraud risk using a Logistic Regression model.
-
-<br>
-
-**Workflow:**
-
-```text
-Provider information
-        ↓
-Fraud prediction
-        ↓
-Fraud risk score
-        ↓
-AI explanation for flagged cases
-```
-<br>
-
-### 3. CMS Healthcare Fraud Assistant
+### 2. CMS Healthcare Fraud Assistant
 
 See Folder: CMS_Healthcare_Fraud_Assistant
 
@@ -70,6 +50,27 @@ Example questions:
 - How do I report Medicare fraud?
 - What are common fraud warning signs?
 
+<br>
+
+### 3. Healthcare Fraud Detection App
+
+See Folder: Deployment_of_Healthcare_Fraud_Detection
+
+A Streamlit application that predicts provider fraud risk using a Logistic Regression model.
+
+<br>
+
+**Workflow:**
+
+```text
+Provider information
+        ↓
+Fraud prediction
+        ↓
+Fraud risk score
+        ↓
+AI explanation for flagged cases
+```
 <br>
 
 ### 4. CMS Fraud Information Extraction
