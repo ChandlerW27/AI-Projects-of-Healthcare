@@ -43,7 +43,7 @@ Fraud risk score
         ↓
 AI explanation for flagged cases
 ```
-
+<br>
 
 ### 3. CMS Healthcare Fraud Assistant
 
@@ -69,6 +69,8 @@ Example questions:
 - How can fraud be detected?
 - How do I report Medicare fraud?
 - What are common fraud warning signs?
+
+<br>
 
 ### 4. CMS Fraud Information Extraction
 
